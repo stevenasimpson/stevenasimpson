@@ -49,3 +49,8 @@ Connect with me via my LinkedIn!
 - ANDIE (A Non-Destructive Image Editor) - a second-year University team project
 - A pair of websites show-casing a range of native NZ birds, with dynamic and static backend data models
 - A range of smaller projects
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stevenasimpson&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stevenasimpson&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenasimpson&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
